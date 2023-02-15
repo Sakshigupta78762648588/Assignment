@@ -55,7 +55,7 @@ Ans.3 public class Main {
 }
 This is the example of checked exception and will throw an exception at the time of compilation.
 
-public class Main {compil
+public class Main {
     public static void main(String[] args) {
         throw new RuntimeException("This is an example RuntimeException.");
     }
